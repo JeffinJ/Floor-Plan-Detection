@@ -128,4 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-.model_best_val_loss_var.pkl
+.model_best_val_loss_var.pklmodel_best_val_loss_var.pkl
+*.pkl
