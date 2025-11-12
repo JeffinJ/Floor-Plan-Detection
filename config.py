@@ -1,6 +1,6 @@
 import os
 
-image_path = 'Images/example.png'
+image_path = 'Images/example4.png'
 target_path = '/floorplan' # will export in two formats (.blend and .stl)
 program_path = os.getcwd()  
 blender_install_path = program_path+"/2.93.1/blender"
